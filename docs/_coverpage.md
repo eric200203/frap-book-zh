@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-# *Formal Reasoning About Programs*
+# *Formal Reasoning About Programs* 中文版
 
 [GitHub](https://github.com/tinker-robot/frap-book-zh)
 [开始阅读](preface.md)
