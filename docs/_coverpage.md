@@ -2,7 +2,7 @@
 
 # *Formal Reasoning About Programs* 中文版
 
-[GitHub](https://github.com/tinker-robot/frap-book-zh)
+[英文版](http://adam.chlipala.net/frap/)
 [开始阅读](preface.md)
 
 <!-- background color -->
