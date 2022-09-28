@@ -18,6 +18,7 @@ inductive definition  归纳定义
 inductive set:  归纳集合
 inductive type  归纳类型
 inference rule  推断规则
+invariant  不变量
 linear arithmetic  线性运算
 metalanguage  元语言
 noncanonical  非规范化的
@@ -35,4 +36,5 @@ specifications  规范
 structural induction  结构化归纳
 syntax  语法
 ternimal  终结符
+transition system  转移系统
 unification  统一化
