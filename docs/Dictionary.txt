@@ -5,6 +5,7 @@ algebraic datatype  代数数据类型
 algebraic simplification  代数化简
 Backus-Naur Form (BNF)  巴科斯——诺尔范式
 client code  客户端代码
+commuting diagram  交换图
 conclusion  结论
 concrete syntax  具体语法
 constructor  构造函数
